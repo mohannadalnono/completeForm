@@ -223,5 +223,4 @@ coni.deleteRecordID(idD);
 			coni.importdata(pa);
 		}
 	}
-	//ok
 }
