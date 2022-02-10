@@ -1,0 +1,10 @@
+client number 1, name: mohanand, address: myPlace, hobies: test, gender: male, lang: c++, choice: 2
+
+client number 3, name: mohammed alnono, address: casablanca, hobies: [bask, golf], gender: male, lang: java, choice: 2
+
+client number 11, name: ddd, address: dddff, hobies: [bask, golf], gender: male, lang: java, choice: 3
+
+client number 12, name: any, address: gaza, hobies: nothing, gender: male, lang: swift, choice: 4
+
+client number 13, name: mo, address: taza, hobies: alot, gender: male, lang: dart, choice: 6
+
