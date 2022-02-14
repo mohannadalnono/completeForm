@@ -73,3 +73,5 @@ Titles, names and fields could be modified, duplicated, deleted, resized or move
 
 When use this program or attach it please respect CopyRights, tag it with source URL, developer name.... whatever else!               
 Found it usefull? leave a **STAR**!
+
+If code needed to be modified please leave me E-mail : **mohannad.alnono.1999@gmail.com**
